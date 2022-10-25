@@ -27,9 +27,9 @@
           "ja": "合成エンジン"
         },
         "description": {
-          "en": "UTAU synthesis engine (executable file).`",
-          "zh": "UTAU 合成引擎（可执行文件）。`",
-          "ja": "UTAU 合成エンジン（実行可能ファイル）。`"
+          "en": "UTAU synthesis engine (executable file).",
+          "zh": "UTAU 合成引擎（可执行文件）。",
+          "ja": "UTAU 合成エンジン（実行可能ファイル）。"
         },
         "defaultValue": "worldline.exe"
       },
