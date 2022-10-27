@@ -121,7 +121,7 @@
           "zh": "Flags",
           "ja": "フラグ"
         },
-        "defaultValue": "",
+        "defaultValue": "g0",
         "optional": true
       },
       {
