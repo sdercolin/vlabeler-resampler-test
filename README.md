@@ -13,7 +13,7 @@ You can use other UTAU synthesis engines as well, but some of them may not work 
 
 ## Download
 
-Please check the latest release and download the binary which is prepared for your OS.
+Please check the latest release and download the plugin package which is prepared for your OS.
 
 ## Installation
 
