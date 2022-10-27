@@ -4,6 +4,9 @@ This is a batch edit plugin for [vLabeler](https://github.com/sdercolin/vlabeler
 It does similar things as setParam's Synthesis Test (F10), by using the oto parameters for current entry to render and
 play an audio file.
 
+## Requirement
+vLabeler 1.0.0-beta4 or later.
+
 ## Embedded resampler
 
 `worldline` from [OpenUtau](https://github.com/stakira/OpenUtau) is packaged here, and it has been set as the default.
